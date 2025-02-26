@@ -77,12 +77,12 @@ Hello! I’m **Ahmed Yaseen**, a passionate and skilled full-stack developer spe
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyaseen&show_icons=true&theme=dracula" width="47%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedyaseen&theme=dracula" width="47%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahdevloper&show_icons=true&theme=dracula" width="47%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahdevloper&theme=dracula" width="47%" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyaseen&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahdevloper&layout=compact&theme=dracula" alt="Top Languages">
 </div>
 
 ---
